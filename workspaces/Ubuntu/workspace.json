@@ -1,0 +1,19 @@
+{
+  "description": "Custom lightweight Ubuntu Image with a few Tools.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "ubuntu.png",
+  "name": "pixwarron/ubuntu-workspace:1.0",
+  "run_config": {
+    "hostname": "kasm"
+  },
+  "categories": [
+    "Desktop"
+  ],
+  "friendly_name": "Ubuntu Workspace",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ]
+}
