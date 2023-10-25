@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'IT de Boer',
+    description: 'Custom workspaces by Jeroen de Boer.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://pixwarron.github.io/',
+    contactUrl: 'https://it-deboer.de/',
   },
   reactStrictMode: true,
   swcMinify: true,
