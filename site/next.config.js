@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'IT de Boer',
     description: 'Custom workspaces by Jeroen de Boer.',
     icon: '/img/logo.svg',
-    listUrl: 'https://pixwarron.github.io/',
+    listUrl: 'https://pixwarron.github.io/kasm-registry/',
     contactUrl: 'https://it-deboer.de/',
   },
   reactStrictMode: true,
